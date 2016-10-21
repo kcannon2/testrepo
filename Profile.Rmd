@@ -1,4 +1,8 @@
-categories <- c('prog', 'math', 'stat', 'machl', 'dom', 'commpres', 'vis')
-scores <- c(2, 5, 2, 1, 3, 5, 2)
-kevin <- data.frame(categories, scores)
-kevin
+categories scores
+prog 2
+math 5
+stat 2
+machl 1
+dom 3
+commpres 5
+vis 2
